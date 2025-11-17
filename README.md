@@ -1,4 +1,4 @@
-Netflix Clone — README
+# Netflix Clone — README
 Project Overview
 This project is a Netflix Clone landing page built using HTML and CSS. It recreates the look and feel of Netflix's official homepage, including the hero section, trending section, reasons-to-join cards, FAQs, footer, and overall responsive design. The goal of this project is to practice responsive web design, CSS layout techniques, and UI cloning using pure HTML and CSS.
 
