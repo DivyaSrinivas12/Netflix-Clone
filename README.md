@@ -2,7 +2,7 @@
 Project Overview
 This project is a Netflix Clone landing page built using HTML and CSS. It recreates the look and feel of Netflix's official homepage, including the hero section, trending section, reasons-to-join cards, FAQs, footer, and overall responsive design. The goal of this project is to practice responsive web design, CSS layout techniques, and UI cloning using pure HTML and CSS.
 
-Features
+## Features
 Modern Netflix-style User Interface
 The layout matches Netflix's homepage with:
 
@@ -25,11 +25,11 @@ Clean transitions and responsive structures
 Project Structure
 *project-folder *index.html *style.css *background_image.jpg *logo.png *images for trending cards
 
-File Descriptions
+## File Descriptions
 index.html
 Contains the full structure of the website:
 
-header— Netflix logo, language select, sign-in button
+## header— Netflix logo, language select, sign-in button
 section class="hero" — background banner + email form
 section class="trending-section" — trending movies/shows
 div class="reasons-container" — key features
@@ -39,31 +39,31 @@ footer — links and contact info
 style.css
 Includes all styling:
 
-Global styles (fonts, background, reset)
+## Global styles (fonts, background, reset)
 Header + logo styles
 Hero section overlay effects
 Trending section card layout
 Reasons cards grid layout
-FAQ design
+## FAQ design
 Footer grid
 Media queries for responsiveness
 How the Website Works
 Header
 Displays the Netflix logo, language selection dropdown, and a sign-in button.
 
-Hero Section
+## Hero Section
 Uses a full-width background image with a dark overlay to improve text visibility. A centered text block introduces the service and contains an email submission form.
 
-Trending Section
+#3 Trending Section
 Cards show popular shows/movies with ranking numbers. Hover effect enlarges the cards.
 
-Reasons to Join
+## Reasons to Join
 Four cards explaining Netflix's benefits.
 
-FAQ
+## FAQ
 Displays common user questions in simple blocks.
 
-Footer
+## Footer
 Contains customer support number and categorized links.
 
 Responsiveness
